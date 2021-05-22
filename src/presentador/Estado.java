@@ -7,6 +7,7 @@ import modelo.ser.Adulto;
 import modelo.ser.Ser;
 
 public class Estado {
+	
 	// Lo que le piden al estado que fabrique
 	private long demanda = 0;
 	// el aumento de produccion en este periodo
