@@ -49,6 +49,7 @@ public class Estado {
 
 	private void establecerNacimientos(long trabajadoresFaltantes) {
 		// TODO Auto-generated method stub
+		
 	}
 
 	private long getProduccionPotencial() {
